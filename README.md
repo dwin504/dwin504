@@ -1,16 +1,28 @@
 ## Hi there 👋
+# 👋 Hi there, I'm [Edwin Otieno]!
 
-<!--
-**dwin504/dwin504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎯 Goal: To become a confident **front-end developer** who builds amazing, user-centered web experiences.
 
-Here are some ideas to get you started:
+🚀 **Tech Enthusiast | Problem Solver | Lifelong Learner**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 Currently Working On
+
+I'm building:
+- 🎨 Stylish web apps with **HTML5**, **CSS3** and **JavaScript**
+- 🔥 An **interactive portfolio** to showcase my creations
+- 📚 Contributing to open-source projects and learning from the **ALX Community**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+```html
+🖥️ Languages: HTML5, CSS3, JavaScript  
+🧰 Frameworks: React, Tailwind CSS, Bootstrap  
+🎨 Tools: VS Code, GitHub, Git, Chrome DevTools  
+💡 Exploring: Next.js, TypeScript
+
+
+
