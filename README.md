@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Hi there, I'm [Edwin Otieno]!
+# 👋 Hi there, I'm [Edwin Otieno]
 
 ### 🎯 Goal: To become a confident **front-end developer** who builds amazing, user-centered web experiences.
 
